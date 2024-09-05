@@ -1,3 +1,2 @@
 # study
-Author 
-Gauravsingh
+Author - Gauravsingh
